@@ -25,7 +25,7 @@
             android:background="@color/grey"
             android:ems="10"
             android:gravity="center_vertical|end"
-            android:inputType="textPersonName"
+            android:inputType="textMultiLine"
 
                 android:textStyle="bold"
             android:paddingRight="10dp"
@@ -41,7 +41,7 @@
             android:ems="10"
            android:layout_marginTop="5dp"
             android:gravity="center_vertical|end"
-            android:inputType="textImeMultiLine"
+            android:inputType="textMultiLine"
 
             android:paddingRight="20dp"
             android:textColor="#F6F0F0"
